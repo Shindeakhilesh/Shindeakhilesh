@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Shindeakhilesh
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on innovative out of the box Projects
 - 📫 How to reach me - email 
 
